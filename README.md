@@ -1,26 +1,45 @@
-# Meu Projeto Responsivo
+# 🌐 Site Responsivo Profissional — Template Completo
 
 
-Site estático demonstrativo com foco em responsividade (mobile-first), acessibilidade básica e estrutura limpa.
+Este projeto é um **template premium responsivo** pronto para ser usado em qualquer site, portfólio ou apresentação. Possui animações, acessibilidade e layout moderno.
 
 
-## O que tem
-- `index.html` — página principal (HTML sem frameworks).
-- `styles.css` — estilos responsivos (mobile-first + breakpoints para tablet e desktop).
+## 🚀 Tecnologias
+- HTML5
+- CSS3 (Mobile-first, Grid, Flexbox)
 
 
-## Como usar
-1. Clone ou baixe os arquivos.
-2. Abra `index.html` no navegador (não precisa de servidor). Para desenvolvimento, pode usar a extensão "Live Server" no VSCode.
+## 📌 Funcionalidades
+- Navbar responsiva com toggle
+- Hero moderno com grid e destaque visual
+- Cards animados
+- Galeria responsiva em grid
+- Depoimentos
+- FAQ interativo
+- Formulário funcional (frontend)
+- Rodapé profissional
 
 
-## Principais decisões de design
-- **Mobile-first:** os estilos base são para celular; a partir de `@media(min-width:720px)` o layout muda para tablet/desktop.
-- **Flex e Grid:** usados para compor o layout com poucas linhas, mais simples de manter.
-- **Acessibilidade:** foco visível, aria-expanded no botão do menu e textos com contraste legível.
+## 📱 Responsividade
+Implementada com breakpoints:
+- **Mobile:** padrão
+- **Tablet:** ≥ 768px
+- **Desktop:** ≥ 1100px
 
 
-## Personalização rápida
-- Troque as cores em `:root`.
-- Substitua o conteúdo da seção `gallery` por imagens reais (usar `<img>` com `alt`).
-- Para formulários reais, conecte a `action` do form a um endpoint.
+## ▶️ Como usar
+1. Baixe os arquivos
+2. Abra `index.html` no navegador
+3. Personalize o conteúdo
+
+
+## 🎨 Personalização
+Edite variáveis no `:root` para trocar:
+- Cores
+- Radius
+- Sombra
+- Tamanho máximo
+
+
+## 📄 Licença
+MIT — livre para uso e modificação
