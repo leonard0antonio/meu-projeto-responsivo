@@ -24,7 +24,3 @@ Site estático demonstrativo com foco em responsividade (mobile-first), acessibi
 - Troque as cores em `:root`.
 - Substitua o conteúdo da seção `gallery` por imagens reais (usar `<img>` com `alt`).
 - Para formulários reais, conecte a `action` do form a um endpoint.
-
-
-## Licença
-MIT — sinta-se à vontade para usar e adaptar.
