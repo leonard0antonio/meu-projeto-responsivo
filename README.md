@@ -40,6 +40,3 @@ Edite variáveis no `:root` para trocar:
 - Sombra
 - Tamanho máximo
 
-
-## 📄 Licença
-MIT — livre para uso e modificação
